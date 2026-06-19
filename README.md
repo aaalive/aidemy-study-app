@@ -1,19 +1,19 @@
-# AIDemy — AI-Driven Learning Hub & Exam Prep
+# AiDemy — AI-Driven Learning Hub & Exam Prep
 
-Welcome to the official public documentation and community asset repository for **AIDemy**, the advanced AI-driven educational platform designed to help students, parents, and visual learners transform dense textbooks into structured, stress-free study materials.
+Welcome to the official public documentation and community asset repository for **AiDemy**, the advanced AI-driven educational platform designed to help students, parents, and visual learners transform dense textbooks into structured, stress-free study materials.
 
 ## 🚀 Live Access & Play Store Downloads
 
 To experience the AIDemy ecosystem across native mobile and web frameworks, use our official high-authority access vectors below:
 
-* **Official Web App:** [Visit the AIDemy Landing Page & Web Hub](https://aidemy.lovable.app)
-* **Get it on Google Play:** [Download AIDemy for Android](https://play.google.com/store/apps/details?id=study.at.aidemy) *(Note: Swap this placeholder out with your exact live Google Play link once your app store tracking asset goes live!)*
+* **Official Web App:** [Visit the AiDemy Landing Page & Web Hub](https://aidemy.lovable.app)
+* **Get it on Google Play:** [Download AiDemy for Android](https://play.google.com/store/apps/details?id=study.at.aidemy)
 
 ---
 
-## 💡 What is AIDemy?
+## 💡 What is AiDemy?
 
-AIDemy is built to solve student cognitive overload. By utilizing modern AI architectures, the application strips out academic jargon from scanned materials, worksheets, and books, outputting highly visual, low-glare study resources.
+AiDemy is built to solve student cognitive overload. By utilizing modern AI architectures, the application strips out academic jargon from scanned materials, worksheets, and books, outputting highly visual, low-glare study resources.
 
 ### Core Features Indexed Natively:
 - **Interactive Quiz Generator:** Automatically maps dense school curricula into immediate, adaptive timed mock exams.
